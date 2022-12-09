@@ -1,0 +1,15 @@
+C:\Thais\ProjetosDio\app-transferencia-netbank-dio\bin\Debug\net7.0\app-transferencia-netbank-dio.exe
+C:\Thais\ProjetosDio\app-transferencia-netbank-dio\bin\Debug\net7.0\app-transferencia-netbank-dio.deps.json
+C:\Thais\ProjetosDio\app-transferencia-netbank-dio\bin\Debug\net7.0\app-transferencia-netbank-dio.runtimeconfig.json
+C:\Thais\ProjetosDio\app-transferencia-netbank-dio\bin\Debug\net7.0\app-transferencia-netbank-dio.dll
+C:\Thais\ProjetosDio\app-transferencia-netbank-dio\bin\Debug\net7.0\app-transferencia-netbank-dio.pdb
+C:\Thais\ProjetosDio\app-transferencia-netbank-dio\obj\Debug\net7.0\app-transferencia-netbank-dio.csproj.AssemblyReference.cache
+C:\Thais\ProjetosDio\app-transferencia-netbank-dio\obj\Debug\net7.0\app-transferencia-netbank-dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Thais\ProjetosDio\app-transferencia-netbank-dio\obj\Debug\net7.0\app-transferencia-netbank-dio.AssemblyInfoInputs.cache
+C:\Thais\ProjetosDio\app-transferencia-netbank-dio\obj\Debug\net7.0\app-transferencia-netbank-dio.AssemblyInfo.cs
+C:\Thais\ProjetosDio\app-transferencia-netbank-dio\obj\Debug\net7.0\app-transferencia-netbank-dio.csproj.CoreCompileInputs.cache
+C:\Thais\ProjetosDio\app-transferencia-netbank-dio\obj\Debug\net7.0\app-transferencia-netbank-dio.dll
+C:\Thais\ProjetosDio\app-transferencia-netbank-dio\obj\Debug\net7.0\refint\app-transferencia-netbank-dio.dll
+C:\Thais\ProjetosDio\app-transferencia-netbank-dio\obj\Debug\net7.0\app-transferencia-netbank-dio.pdb
+C:\Thais\ProjetosDio\app-transferencia-netbank-dio\obj\Debug\net7.0\app-transferencia-netbank-dio.genruntimeconfig.cache
+C:\Thais\ProjetosDio\app-transferencia-netbank-dio\obj\Debug\net7.0\ref\app-transferencia-netbank-dio.dll

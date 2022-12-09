@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "app-transferencia-netbank-dio/1.0.0": {
+        "runtime": {
+          "app-transferencia-netbank-dio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "app-transferencia-netbank-dio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
